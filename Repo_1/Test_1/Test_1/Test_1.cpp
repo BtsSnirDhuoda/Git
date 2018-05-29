@@ -6,7 +6,7 @@
 
 int main()
 {
-	cout << "version 2" << endl;
+	cout << "version 1" << endl;
     return 0;
 }
 
